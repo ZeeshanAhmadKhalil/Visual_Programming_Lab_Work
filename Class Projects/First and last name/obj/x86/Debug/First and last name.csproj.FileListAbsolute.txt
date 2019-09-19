@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\First and last name\bin\Debug\First and last name.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\First and last name\bin\Debug\First and last name.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\First and last name\obj\x86\Debug\First and last name.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\First and last name\obj\x86\Debug\First and last name.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\First and last name\bin\Debug\First and last name.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\First and last name\bin\Debug\First and last name.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\First and last name\obj\x86\Debug\First and last name.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\First and last name\obj\x86\Debug\First and last name.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\First and last name\bin\Debug\First and last name.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\First and last name\bin\Debug\First and last name.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\First and last name\obj\x86\Debug\First and last name.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\First and last name\obj\x86\Debug\First and last name.pdb

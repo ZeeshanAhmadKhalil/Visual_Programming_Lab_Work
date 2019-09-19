@@ -1,0 +1,14 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\bin\Debug\User methos.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\bin\Debug\User methos.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\obj\x86\Debug\User_methos.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\obj\x86\Debug\User_methos.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\obj\x86\Debug\User methos.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\obj\x86\Debug\User methos.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\User methos\obj\x86\Debug\User methos.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\obj\x86\Debug\User methos.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\obj\x86\Debug\User methos.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\bin\Debug\User methos.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\bin\Debug\User methos.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\obj\x86\Debug\User_methos.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\obj\x86\Debug\User_methos.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\User methos\obj\x86\Debug\User methos.csproj.GenerateResource.Cache

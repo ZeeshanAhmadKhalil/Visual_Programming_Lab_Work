@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\bin\Debug\progress bar.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\bin\Debug\progress bar.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\obj\x86\Debug\progress_bar.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\obj\x86\Debug\progress_bar.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\obj\x86\Debug\progress bar.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\obj\x86\Debug\progress bar.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\progress bar\obj\x86\Debug\progress bar.pdb

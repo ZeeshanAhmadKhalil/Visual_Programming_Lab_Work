@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Arthematic Operatiors\bin\Debug\Arthematic Operatiors.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Arthematic Operatiors\bin\Debug\Arthematic Operatiors.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Arthematic Operatiors\obj\x86\Debug\Arthematic Operatiors.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Arthematic Operatiors\obj\x86\Debug\Arthematic Operatiors.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Arthematic Operatiors\obj\x86\Debug\Arthematic Operatiors.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Arthematic Operatiors\obj\x86\Debug\Arthematic Operatiors.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Arthematic Operatiors\bin\Debug\Arthematic Operatiors.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Arthematic Operatiors\bin\Debug\Arthematic Operatiors.pdb

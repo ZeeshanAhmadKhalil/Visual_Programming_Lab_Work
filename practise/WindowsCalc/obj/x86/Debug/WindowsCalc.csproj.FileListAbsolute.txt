@@ -1,0 +1,14 @@
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\bin\Debug\WindowsCalc.exe
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\bin\Debug\WindowsCalc.pdb
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\obj\x86\Debug\WindowsCalc.Formcalc.resources
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\obj\x86\Debug\WindowsCalc.Properties.Resources.resources
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\obj\x86\Debug\WindowsCalc.csproj.GenerateResource.Cache
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\obj\x86\Debug\WindowsCalc.exe
+c:\users\mubeen khan\documents\visual studio 2010\Projects\quiz4 practice\WindowsCalc\obj\x86\Debug\WindowsCalc.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\bin\Debug\WindowsCalc.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\bin\Debug\WindowsCalc.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.Formcalc.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\assinging values\bin\Debug\assinging values.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\assinging values\bin\Debug\assinging values.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\assinging values\obj\x86\Debug\assinging values.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\assinging values\obj\x86\Debug\assinging values.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\assinging values\bin\Debug\assinging values.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\assinging values\bin\Debug\assinging values.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\assinging values\obj\x86\Debug\assinging values.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\assinging values\obj\x86\Debug\assinging values.pdb

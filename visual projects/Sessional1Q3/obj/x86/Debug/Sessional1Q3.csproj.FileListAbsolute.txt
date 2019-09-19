@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\bin\Debug\Sessional1Q3.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\bin\Debug\Sessional1Q3.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\obj\x86\Debug\Sessional1Q3.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\obj\x86\Debug\Sessional1Q3.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\obj\x86\Debug\Sessional1Q3.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\obj\x86\Debug\Sessional1Q3.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Sessional1Q3\obj\x86\Debug\Sessional1Q3.pdb

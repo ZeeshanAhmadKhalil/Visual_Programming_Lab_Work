@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Assignment Operator\bin\Debug\Assignment Operator.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Assignment Operator\bin\Debug\Assignment Operator.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Assignment Operator\obj\x86\Debug\Assignment Operator.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Assignment Operator\obj\x86\Debug\Assignment Operator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Assignment Operator\bin\Debug\Assignment Operator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Assignment Operator\bin\Debug\Assignment Operator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Assignment Operator\obj\x86\Debug\Assignment Operator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Assignment Operator\obj\x86\Debug\Assignment Operator.pdb

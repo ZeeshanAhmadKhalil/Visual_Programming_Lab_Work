@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\bin\Debug\Ass1_Q8 positive integers sum.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\bin\Debug\Ass1_Q8 positive integers sum.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\obj\x86\Debug\Ass1_Q8 positive integers sum.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\obj\x86\Debug\Ass1_Q8 positive integers sum.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\bin\Debug\Ass1_Q8 positive integers sum.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\bin\Debug\Ass1_Q8 positive integers sum.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\obj\x86\Debug\Ass1_Q8 positive integers sum.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q8 positive integers sum\obj\x86\Debug\Ass1_Q8 positive integers sum.pdb

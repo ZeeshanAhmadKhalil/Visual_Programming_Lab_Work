@@ -1,0 +1,20 @@
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.exe
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.MainForm.resources
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Mubeen Khan\documents\visual studio 2010\Projects\quiz4 practice\WebBrowser\obj\x86\Debug\WebBrowser.SettingsForm.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\bin\Debug\WebBrowser.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.MainForm.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.SettingsForm.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.csproj.GenerateResource.Cache

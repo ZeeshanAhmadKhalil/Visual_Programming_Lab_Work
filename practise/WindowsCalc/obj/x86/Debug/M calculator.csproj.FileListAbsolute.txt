@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\bin\Debug\WindowsCalc.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\bin\Debug\WindowsCalc.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.Formcalc.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\M calculator.csproj.GenerateResource.Cache

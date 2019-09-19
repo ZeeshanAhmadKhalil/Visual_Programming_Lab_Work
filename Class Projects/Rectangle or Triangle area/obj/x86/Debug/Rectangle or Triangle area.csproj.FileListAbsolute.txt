@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Rectangle or Triangle area\bin\Debug\Rectangle or Triangle area.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Rectangle or Triangle area\bin\Debug\Rectangle or Triangle area.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Rectangle or Triangle area\obj\x86\Debug\Rectangle or Triangle area.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Rectangle or Triangle area\obj\x86\Debug\Rectangle or Triangle area.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Rectangle or Triangle area\bin\Debug\Rectangle or Triangle area.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Rectangle or Triangle area\bin\Debug\Rectangle or Triangle area.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Rectangle or Triangle area\obj\x86\Debug\Rectangle or Triangle area.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Rectangle or Triangle area\obj\x86\Debug\Rectangle or Triangle area.pdb

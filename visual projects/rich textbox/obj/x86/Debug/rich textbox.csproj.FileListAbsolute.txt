@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\bin\Debug\rich textbox.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\bin\Debug\rich textbox.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\obj\x86\Debug\rich_textbox.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\obj\x86\Debug\rich_textbox.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\obj\x86\Debug\rich textbox.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\obj\x86\Debug\rich textbox.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\obj\x86\Debug\rich textbox.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\rich textbox\obj\x86\Debug\rich textbox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\bin\Debug\on click.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\bin\Debug\on click.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\obj\x86\Debug\on_click.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\obj\x86\Debug\on click.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\obj\x86\Debug\on click.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\obj\x86\Debug\on click.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\obj\x86\Debug\on_click.Welcome.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\on click\obj\x86\Debug\Add_two_numbers.Form1.resources

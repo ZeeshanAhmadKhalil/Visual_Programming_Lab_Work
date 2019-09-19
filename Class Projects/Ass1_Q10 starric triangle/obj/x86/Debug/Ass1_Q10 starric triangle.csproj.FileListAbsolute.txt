@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q10 starric triangle\bin\Debug\Ass1_Q10 starric triangle.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q10 starric triangle\bin\Debug\Ass1_Q10 starric triangle.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q10 starric triangle\obj\x86\Debug\Ass1_Q10 starric triangle.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q10 starric triangle\obj\x86\Debug\Ass1_Q10 starric triangle.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q10 starric triangle\bin\Debug\Ass1_Q10 starric triangle.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q10 starric triangle\bin\Debug\Ass1_Q10 starric triangle.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q10 starric triangle\obj\x86\Debug\Ass1_Q10 starric triangle.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q10 starric triangle\obj\x86\Debug\Ass1_Q10 starric triangle.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsCalc", "WindowsCalc\WindowsCalc.csproj", "{35410E44-2AFE-4D91-856C-8E7D2F60A36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tick Tock 1", "TicTacToe\Tick Tock 1.csproj", "{82E5EEA5-18A4-4948-A1D6-F86AABF164F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowser", "WebBrowser\WebBrowser.csproj", "{A68984AB-A46D-4958-A06A-C84579161BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media_player M", "media_player\media_player M.csproj", "{CAA71209-2F06-40A0-9D9B-33121BE0ED88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tick tock M", "tick tock\tick tock M.csproj", "{204A088F-49DA-422F-8093-8CD03AB564E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notepad", "..\visual projects\notepad\notepad.csproj", "{193B4C7C-8EA7-42CF-B873-405B4C20BA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35410E44-2AFE-4D91-856C-8E7D2F60A36D}.Debug|x86.ActiveCfg = Debug|x86
+		{35410E44-2AFE-4D91-856C-8E7D2F60A36D}.Debug|x86.Build.0 = Debug|x86
+		{35410E44-2AFE-4D91-856C-8E7D2F60A36D}.Release|x86.ActiveCfg = Release|x86
+		{35410E44-2AFE-4D91-856C-8E7D2F60A36D}.Release|x86.Build.0 = Release|x86
+		{82E5EEA5-18A4-4948-A1D6-F86AABF164F8}.Debug|x86.ActiveCfg = Debug|x86
+		{82E5EEA5-18A4-4948-A1D6-F86AABF164F8}.Debug|x86.Build.0 = Debug|x86
+		{82E5EEA5-18A4-4948-A1D6-F86AABF164F8}.Release|x86.ActiveCfg = Release|x86
+		{82E5EEA5-18A4-4948-A1D6-F86AABF164F8}.Release|x86.Build.0 = Release|x86
+		{A68984AB-A46D-4958-A06A-C84579161BEE}.Debug|x86.ActiveCfg = Debug|x86
+		{A68984AB-A46D-4958-A06A-C84579161BEE}.Debug|x86.Build.0 = Debug|x86
+		{A68984AB-A46D-4958-A06A-C84579161BEE}.Release|x86.ActiveCfg = Release|x86
+		{A68984AB-A46D-4958-A06A-C84579161BEE}.Release|x86.Build.0 = Release|x86
+		{CAA71209-2F06-40A0-9D9B-33121BE0ED88}.Debug|x86.ActiveCfg = Debug|x86
+		{CAA71209-2F06-40A0-9D9B-33121BE0ED88}.Debug|x86.Build.0 = Debug|x86
+		{CAA71209-2F06-40A0-9D9B-33121BE0ED88}.Release|x86.ActiveCfg = Release|x86
+		{CAA71209-2F06-40A0-9D9B-33121BE0ED88}.Release|x86.Build.0 = Release|x86
+		{204A088F-49DA-422F-8093-8CD03AB564E0}.Debug|x86.ActiveCfg = Debug|x86
+		{204A088F-49DA-422F-8093-8CD03AB564E0}.Debug|x86.Build.0 = Debug|x86
+		{204A088F-49DA-422F-8093-8CD03AB564E0}.Release|x86.ActiveCfg = Release|x86
+		{204A088F-49DA-422F-8093-8CD03AB564E0}.Release|x86.Build.0 = Release|x86
+		{193B4C7C-8EA7-42CF-B873-405B4C20BA3D}.Debug|x86.ActiveCfg = Debug|x86
+		{193B4C7C-8EA7-42CF-B873-405B4C20BA3D}.Debug|x86.Build.0 = Debug|x86
+		{193B4C7C-8EA7-42CF-B873-405B4C20BA3D}.Release|x86.ActiveCfg = Release|x86
+		{193B4C7C-8EA7-42CF-B873-405B4C20BA3D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

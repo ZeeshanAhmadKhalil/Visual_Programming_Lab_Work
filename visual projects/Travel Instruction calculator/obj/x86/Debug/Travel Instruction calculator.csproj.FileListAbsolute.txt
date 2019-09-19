@@ -1,0 +1,14 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\bin\Debug\Travel Instruction calculator.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\bin\Debug\Travel Instruction calculator.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel_Instruction_calculator.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel_Instruction_calculator.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel Instruction calculator.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel Instruction calculator.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel Instruction calculator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel Instruction calculator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel Instruction calculator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\bin\Debug\Travel Instruction calculator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\bin\Debug\Travel Instruction calculator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel_Instruction_calculator.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel_Instruction_calculator.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Travel Instruction calculator\obj\x86\Debug\Travel Instruction calculator.csproj.GenerateResource.Cache

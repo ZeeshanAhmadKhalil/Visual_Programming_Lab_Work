@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\use of object\bin\Debug\use of object.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\use of object\bin\Debug\use of object.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\use of object\obj\x86\Debug\use of object.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\use of object\obj\x86\Debug\use of object.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\use of object\bin\Debug\use of object.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\use of object\bin\Debug\use of object.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\use of object\obj\x86\Debug\use of object.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\use of object\obj\x86\Debug\use of object.pdb

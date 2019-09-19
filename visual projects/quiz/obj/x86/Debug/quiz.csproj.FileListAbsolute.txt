@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\bin\Debug\quiz.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\bin\Debug\quiz.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\obj\x86\Debug\quiz.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\obj\x86\Debug\quiz.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\obj\x86\Debug\quiz.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\obj\x86\Debug\quiz.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\quiz\obj\x86\Debug\quiz.pdb

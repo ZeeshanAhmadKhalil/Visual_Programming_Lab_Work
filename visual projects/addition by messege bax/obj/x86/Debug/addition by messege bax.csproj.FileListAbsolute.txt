@@ -1,0 +1,14 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\bin\Debug\addition by messege bax.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\bin\Debug\addition by messege bax.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition_by_messege_bax.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition_by_messege_bax.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition by messege bax.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition by messege bax.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition by messege bax.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition by messege bax.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition by messege bax.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\bin\Debug\addition by messege bax.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\bin\Debug\addition by messege bax.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition_by_messege_bax.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition_by_messege_bax.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition by messege bax\obj\x86\Debug\addition by messege bax.csproj.GenerateResource.Cache

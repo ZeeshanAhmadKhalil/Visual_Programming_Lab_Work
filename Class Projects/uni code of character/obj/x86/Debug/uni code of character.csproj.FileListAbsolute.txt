@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\uni code of character\bin\Debug\uni code of character.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\uni code of character\bin\Debug\uni code of character.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\uni code of character\obj\x86\Debug\uni code of character.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\uni code of character\obj\x86\Debug\uni code of character.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\uni code of character\bin\Debug\uni code of character.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\uni code of character\bin\Debug\uni code of character.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\uni code of character\obj\x86\Debug\uni code of character.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\uni code of character\obj\x86\Debug\uni code of character.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\uni code of character\bin\Debug\uni code of character.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\uni code of character\bin\Debug\uni code of character.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\uni code of character\obj\x86\Debug\uni code of character.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\uni code of character\obj\x86\Debug\uni code of character.pdb

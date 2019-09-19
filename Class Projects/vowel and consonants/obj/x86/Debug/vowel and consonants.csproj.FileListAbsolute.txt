@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\vowel and consonants\bin\Debug\vowel and consonants.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\vowel and consonants\bin\Debug\vowel and consonants.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\vowel and consonants\obj\x86\Debug\vowel and consonants.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\vowel and consonants\obj\x86\Debug\vowel and consonants.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\vowel and consonants\bin\Debug\vowel and consonants.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\vowel and consonants\bin\Debug\vowel and consonants.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\vowel and consonants\obj\x86\Debug\vowel and consonants.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\vowel and consonants\obj\x86\Debug\vowel and consonants.pdb

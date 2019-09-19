@@ -1,0 +1,3 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\button_event\obj\x86\Debug\button_event.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\button_event\obj\x86\Debug\button_event.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\button_event\obj\x86\Debug\button_event.csproj.GenerateResource.Cache

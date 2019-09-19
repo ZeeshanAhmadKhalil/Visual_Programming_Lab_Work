@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\bin\Debug\Anchor.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\bin\Debug\Anchor.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\obj\x86\Debug\Anchor.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\obj\x86\Debug\Anchor.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\obj\x86\Debug\Anchor.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\obj\x86\Debug\Anchor.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Anchor\obj\x86\Debug\Anchor.pdb

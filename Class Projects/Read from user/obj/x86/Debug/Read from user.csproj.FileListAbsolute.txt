@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Read from user\bin\Debug\Read from user.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Read from user\bin\Debug\Read from user.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Read from user\obj\x86\Debug\Read from user.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Read from user\obj\x86\Debug\Read from user.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Read from user\bin\Debug\Read from user.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Read from user\bin\Debug\Read from user.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Read from user\obj\x86\Debug\Read from user.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Read from user\obj\x86\Debug\Read from user.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Read from user\bin\Debug\Read from user.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Read from user\bin\Debug\Read from user.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Read from user\obj\x86\Debug\Read from user.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Read from user\obj\x86\Debug\Read from user.pdb

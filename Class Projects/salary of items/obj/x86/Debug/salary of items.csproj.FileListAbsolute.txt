@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\salary of items\bin\Debug\salary of items.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\salary of items\bin\Debug\salary of items.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\salary of items\obj\x86\Debug\salary of items.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\salary of items\obj\x86\Debug\salary of items.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\salary of items\bin\Debug\salary of items.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\salary of items\bin\Debug\salary of items.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\salary of items\obj\x86\Debug\salary of items.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\salary of items\obj\x86\Debug\salary of items.pdb

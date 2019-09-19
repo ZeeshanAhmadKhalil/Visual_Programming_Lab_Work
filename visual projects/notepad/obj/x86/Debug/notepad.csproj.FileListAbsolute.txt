@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\bin\Debug\notepad.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\bin\Debug\notepad.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\obj\x86\Debug\notepad.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\obj\x86\Debug\notepad.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad\obj\x86\Debug\notepad.pdb

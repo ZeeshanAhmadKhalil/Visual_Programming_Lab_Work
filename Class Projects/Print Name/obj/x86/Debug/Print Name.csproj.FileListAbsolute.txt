@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Print Name\bin\Debug\Print Name.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Print Name\bin\Debug\Print Name.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Print Name\obj\x86\Debug\Print Name.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Print Name\obj\x86\Debug\Print Name.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Print Name\bin\Debug\Print Name.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Print Name\bin\Debug\Print Name.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Print Name\obj\x86\Debug\Print Name.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Print Name\obj\x86\Debug\Print Name.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Print Name\bin\Debug\Print Name.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Print Name\bin\Debug\Print Name.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Print Name\obj\x86\Debug\Print Name.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Print Name\obj\x86\Debug\Print Name.pdb

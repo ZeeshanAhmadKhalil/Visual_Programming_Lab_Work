@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\obj\x86\Debug\TicTacToe.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\TicTacToe\obj\x86\Debug\Tick Tock 1.csproj.GenerateResource.Cache

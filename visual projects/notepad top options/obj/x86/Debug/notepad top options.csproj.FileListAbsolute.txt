@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\bin\Debug\notepad top options.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\bin\Debug\notepad top options.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\obj\x86\Debug\notepad_top_options.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\obj\x86\Debug\notepad_top_options.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\obj\x86\Debug\notepad top options.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\obj\x86\Debug\notepad top options.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\obj\x86\Debug\notepad top options.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\notepad top options\obj\x86\Debug\notepad top options.csprojResolveAssemblyReference.cache

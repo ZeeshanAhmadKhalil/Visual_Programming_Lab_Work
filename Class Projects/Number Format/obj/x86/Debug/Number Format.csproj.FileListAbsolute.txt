@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Number Format\bin\Debug\Number Format.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Number Format\bin\Debug\Number Format.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Number Format\obj\x86\Debug\Number Format.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Number Format\obj\x86\Debug\Number Format.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Number Format\bin\Debug\Number Format.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Number Format\bin\Debug\Number Format.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Number Format\obj\x86\Debug\Number Format.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Number Format\obj\x86\Debug\Number Format.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Number Format\bin\Debug\Number Format.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Number Format\bin\Debug\Number Format.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Number Format\obj\x86\Debug\Number Format.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Number Format\obj\x86\Debug\Number Format.pdb

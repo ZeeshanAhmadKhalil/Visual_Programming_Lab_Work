@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\bin\Debug\Ass1_Q7 fibnocsi series.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\bin\Debug\Ass1_Q7 fibnocsi series.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\obj\x86\Debug\Ass1_Q7 fibnocsi series.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\obj\x86\Debug\Ass1_Q7 fibnocsi series.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\obj\x86\Debug\Ass1_Q7 fibnocsi series.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\obj\x86\Debug\Ass1_Q7 fibnocsi series.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\bin\Debug\Ass1_Q7 fibnocsi series.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass1_Q7 fibnocsi series\bin\Debug\Ass1_Q7 fibnocsi series.pdb

@@ -1,0 +1,14 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\bin\Debug\Messege box.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\bin\Debug\Messege box.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege_box.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege_box.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege box.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege box.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege box.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege box.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege box.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\bin\Debug\Messege box.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\bin\Debug\Messege box.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege_box.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege_box.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Messege box\obj\x86\Debug\Messege box.csproj.GenerateResource.Cache

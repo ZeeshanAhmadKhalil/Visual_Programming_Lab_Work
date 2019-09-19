@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Data Type\bin\Debug\Data Type.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Data Type\bin\Debug\Data Type.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Data Type\obj\x86\Debug\Data Type.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Data Type\obj\x86\Debug\Data Type.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Data Type\bin\Debug\Data Type.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Data Type\bin\Debug\Data Type.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Data Type\obj\x86\Debug\Data Type.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Data Type\obj\x86\Debug\Data Type.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Data Type\bin\Debug\Data Type.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Data Type\bin\Debug\Data Type.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Data Type\obj\x86\Debug\Data Type.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Data Type\obj\x86\Debug\Data Type.pdb

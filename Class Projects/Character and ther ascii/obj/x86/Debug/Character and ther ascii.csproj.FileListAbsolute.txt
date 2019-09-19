@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Character and ther ascii\bin\Debug\Character and ther ascii.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Character and ther ascii\bin\Debug\Character and ther ascii.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Character and ther ascii\obj\x86\Debug\Character and ther ascii.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Character and ther ascii\obj\x86\Debug\Character and ther ascii.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Character and ther ascii\bin\Debug\Character and ther ascii.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Character and ther ascii\bin\Debug\Character and ther ascii.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Character and ther ascii\obj\x86\Debug\Character and ther ascii.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Character and ther ascii\obj\x86\Debug\Character and ther ascii.pdb

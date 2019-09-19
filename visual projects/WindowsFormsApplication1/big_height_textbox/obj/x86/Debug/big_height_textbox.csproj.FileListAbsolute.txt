@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\bin\Debug\big_height_textbox.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\bin\Debug\big_height_textbox.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\obj\x86\Debug\big_height_textbox.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\obj\x86\Debug\big_height_textbox.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\obj\x86\Debug\big_height_textbox.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\obj\x86\Debug\big_height_textbox.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\WindowsFormsApplication1\big_height_textbox\obj\x86\Debug\big_height_textbox.pdb

@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Math PI\bin\Debug\Math PI.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Math PI\bin\Debug\Math PI.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Math PI\obj\x86\Debug\Math PI.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Math PI\obj\x86\Debug\Math PI.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Math PI\bin\Debug\Math PI.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Math PI\bin\Debug\Math PI.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Math PI\obj\x86\Debug\Math PI.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Math PI\obj\x86\Debug\Math PI.pdb

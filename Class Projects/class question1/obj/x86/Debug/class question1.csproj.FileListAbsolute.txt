@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\class question1\bin\Debug\class question1.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\class question1\bin\Debug\class question1.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\class question1\obj\x86\Debug\class question1.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\class question1\obj\x86\Debug\class question1.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\class question1\bin\Debug\class question1.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\class question1\bin\Debug\class question1.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\class question1\obj\x86\Debug\class question1.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\class question1\obj\x86\Debug\class question1.pdb

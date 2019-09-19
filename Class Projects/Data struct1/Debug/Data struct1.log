@@ -1,0 +1,16 @@
+﻿Build started 3/7/2018 10:06:30 AM.
+     1>Project "D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Data struct1\Data struct1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Data struct1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         d:\Applications\Installed Apps\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Data struct1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Data struct1.cpp"
+         Data struct1.cpp
+     1>d:\notes\bcs\semester 5\4 vp\projects\class projects\data struct1\data struct1.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>d:\notes\bcs\semester 5\4 vp\projects\class projects\data struct1\data struct1.cpp(167): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+     1>Done Building Project "D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Data struct1\Data struct1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.14

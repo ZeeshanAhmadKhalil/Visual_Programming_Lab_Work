@@ -1,0 +1,13 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\bin\Debug\Layout Designing.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\bin\Debug\Layout Designing.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout_Designing.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout_Designing.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout Designing.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout Designing.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout Designing.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout Designing.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Interop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\obj\x86\Debug\Layout Designing.csproj.ResolveComReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\bin\Debug\Interop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\Layout Designing\bin\Debug\AxInterop.WMPLib.dll

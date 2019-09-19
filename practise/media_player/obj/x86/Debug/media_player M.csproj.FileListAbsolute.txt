@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\Interop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\media_player M.csproj.ResolveComReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\media_player.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\media_player.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\bin\Debug\media_player.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\bin\Debug\media_player.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\bin\Debug\Interop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\bin\Debug\AxInterop.WMPLib.dll
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\media_player.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\media_player.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\media_player\obj\x86\Debug\media_player M.csproj.GenerateResource.Cache

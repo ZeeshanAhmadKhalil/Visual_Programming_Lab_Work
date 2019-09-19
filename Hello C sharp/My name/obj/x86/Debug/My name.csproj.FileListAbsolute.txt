@@ -1,0 +1,4 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\My name\bin\Debug\My name.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\My name\bin\Debug\My name.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\My name\obj\x86\Debug\My name.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\My name\obj\x86\Debug\My name.pdb

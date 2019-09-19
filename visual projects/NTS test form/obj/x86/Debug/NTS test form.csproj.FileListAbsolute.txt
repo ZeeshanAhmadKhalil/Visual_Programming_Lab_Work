@@ -1,0 +1,16 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\bin\Debug\NTS test form.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\bin\Debug\NTS test form.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS_test_form.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS_test_form.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\bin\Debug\NTS test form.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\bin\Debug\NTS test form.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS_test_form.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS_test_form.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\NTS test form\obj\x86\Debug\NTS test form.csproj.GenerateResource.Cache

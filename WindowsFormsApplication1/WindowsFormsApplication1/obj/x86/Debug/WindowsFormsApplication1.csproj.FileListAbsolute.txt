@@ -1,0 +1,10 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Employee.sdf
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employee.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

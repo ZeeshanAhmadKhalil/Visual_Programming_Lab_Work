@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\bin\Debug\Lab Task.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\bin\Debug\Lab Task.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\obj\x86\Debug\Lab_Task.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\obj\x86\Debug\Lab_Task.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\obj\x86\Debug\Lab Task.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\obj\x86\Debug\Lab Task.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Lab Task\obj\x86\Debug\Lab Task.pdb

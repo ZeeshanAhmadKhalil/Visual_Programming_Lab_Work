@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\bin\Debug\M1 calculator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\bin\Debug\M1 calculator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\obj\x86\Debug\M1_calculator.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\obj\x86\Debug\M1_calculator.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\obj\x86\Debug\M1 calculator.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\obj\x86\Debug\M1 calculator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 calculator\obj\x86\Debug\M1 calculator.pdb

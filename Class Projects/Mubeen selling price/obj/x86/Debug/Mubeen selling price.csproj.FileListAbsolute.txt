@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen selling price\bin\Debug\Mubeen selling price.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen selling price\bin\Debug\Mubeen selling price.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen selling price\obj\x86\Debug\Mubeen selling price.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen selling price\obj\x86\Debug\Mubeen selling price.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen selling price\bin\Debug\Mubeen selling price.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen selling price\bin\Debug\Mubeen selling price.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen selling price\obj\x86\Debug\Mubeen selling price.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen selling price\obj\x86\Debug\Mubeen selling price.pdb

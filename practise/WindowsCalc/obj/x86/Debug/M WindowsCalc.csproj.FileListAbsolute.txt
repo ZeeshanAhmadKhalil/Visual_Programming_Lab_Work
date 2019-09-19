@@ -1,0 +1,2 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WindowsCalc\obj\x86\Debug\WindowsCalc.pdb

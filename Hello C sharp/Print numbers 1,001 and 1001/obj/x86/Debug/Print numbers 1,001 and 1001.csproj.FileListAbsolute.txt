@@ -1,0 +1,4 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Print numbers 1,001 and 1001\bin\Debug\Print numbers 1,001 and 1001.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Print numbers 1,001 and 1001\bin\Debug\Print numbers 1,001 and 1001.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Print numbers 1,001 and 1001\obj\x86\Debug\Print numbers 1,001 and 1001.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Print numbers 1,001 and 1001\obj\x86\Debug\Print numbers 1,001 and 1001.pdb

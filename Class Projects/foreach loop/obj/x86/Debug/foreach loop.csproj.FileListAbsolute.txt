@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\foreach loop\bin\Debug\foreach loop.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\foreach loop\bin\Debug\foreach loop.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\foreach loop\obj\x86\Debug\foreach loop.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\foreach loop\obj\x86\Debug\foreach loop.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\foreach loop\obj\x86\Debug\foreach loop.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\foreach loop\obj\x86\Debug\foreach loop.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\foreach loop\obj\x86\Debug\foreach loop.exe

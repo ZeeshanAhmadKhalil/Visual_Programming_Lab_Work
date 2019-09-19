@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\library fine\bin\Debug\library fine.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\library fine\bin\Debug\library fine.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\library fine\obj\x86\Debug\library fine.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\library fine\obj\x86\Debug\library fine.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\library fine\bin\Debug\library fine.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\library fine\bin\Debug\library fine.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\library fine\obj\x86\Debug\library fine.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\library fine\obj\x86\Debug\library fine.pdb

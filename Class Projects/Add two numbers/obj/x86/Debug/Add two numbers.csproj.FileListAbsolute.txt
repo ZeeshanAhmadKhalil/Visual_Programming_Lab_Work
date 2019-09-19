@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\bin\Debug\Add two numbers.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\bin\Debug\Add two numbers.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\obj\x86\Debug\Add_two_numbers.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\obj\x86\Debug\Add two numbers.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\obj\x86\Debug\Add two numbers.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\obj\x86\Debug\Add two numbers.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Add two numbers\obj\x86\Debug\Add_two_numbers.Addition.resources

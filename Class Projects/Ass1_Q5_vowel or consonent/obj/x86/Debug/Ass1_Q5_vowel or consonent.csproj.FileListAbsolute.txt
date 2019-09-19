@@ -1,0 +1,4 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q5_vowel or consonent\bin\Debug\Ass1_Q5_vowel or consonent.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q5_vowel or consonent\bin\Debug\Ass1_Q5_vowel or consonent.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q5_vowel or consonent\obj\x86\Debug\Ass1_Q5_vowel or consonent.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass1_Q5_vowel or consonent\obj\x86\Debug\Ass1_Q5_vowel or consonent.pdb

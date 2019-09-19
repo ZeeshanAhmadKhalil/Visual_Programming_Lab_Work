@@ -1,0 +1,4 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Different formats\bin\Debug\Different formats.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Different formats\bin\Debug\Different formats.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Different formats\obj\x86\Debug\Different formats.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Hello C sharp\Different formats\obj\x86\Debug\Different formats.pdb

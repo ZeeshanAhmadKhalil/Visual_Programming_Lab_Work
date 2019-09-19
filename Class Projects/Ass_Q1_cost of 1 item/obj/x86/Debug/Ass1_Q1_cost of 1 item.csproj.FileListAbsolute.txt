@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\bin\Debug\Ass_Q1_cost of 1 item.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\bin\Debug\Ass_Q1_cost of 1 item.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\obj\x86\Debug\Ass_Q1_cost of 1 item.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\obj\x86\Debug\Ass_Q1_cost of 1 item.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\obj\x86\Debug\Ass_Q1_cost of 1 item.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\obj\x86\Debug\Ass_Q1_cost of 1 item.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\bin\Debug\Ass_Q1_cost of 1 item.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Ass_Q1_cost of 1 item\bin\Debug\Ass_Q1_cost of 1 item.pdb

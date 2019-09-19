@@ -1,0 +1,9 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\bin\Debug\WebBrowser.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.MainForm.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\WebBrowser.SettingsForm.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\WebBrowser\obj\x86\Debug\2.csproj.GenerateResource.Cache

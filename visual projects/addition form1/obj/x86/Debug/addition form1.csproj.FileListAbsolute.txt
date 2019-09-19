@@ -1,0 +1,16 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\bin\Debug\addition form1.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\bin\Debug\addition form1.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition_form1.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition_form1.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\bin\Debug\addition form1.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\bin\Debug\addition form1.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.csprojResolveAssemblyReference.cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition_form1.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition_form1.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\addition form1\obj\x86\Debug\addition form1.csproj.GenerateResource.Cache

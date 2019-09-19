@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Types of int\bin\Debug\Types of int.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Types of int\bin\Debug\Types of int.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Types of int\obj\x86\Debug\Types of int.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Types of int\obj\x86\Debug\Types of int.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Types of int\bin\Debug\Types of int.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Types of int\bin\Debug\Types of int.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Types of int\obj\x86\Debug\Types of int.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Types of int\obj\x86\Debug\Types of int.pdb

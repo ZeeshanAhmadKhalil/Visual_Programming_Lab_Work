@@ -1,0 +1,15 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\bin\Debug\calculator interface.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\bin\Debug\calculator interface.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator_interface.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator_interface.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\bin\Debug\calculator interface.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\bin\Debug\calculator interface.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator_interface.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator_interface.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\calculator interface\obj\x86\Debug\calculator interface.csprojResolveAssemblyReference.cache

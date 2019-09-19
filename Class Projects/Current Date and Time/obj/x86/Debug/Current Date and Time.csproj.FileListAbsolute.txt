@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Current Date and Time\bin\Debug\Current Date and Time.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Current Date and Time\bin\Debug\Current Date and Time.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Current Date and Time\obj\x86\Debug\Current Date and Time.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\Current Date and Time\obj\x86\Debug\Current Date and Time.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Current Date and Time\obj\x86\Debug\Current Date and Time.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Current Date and Time\obj\x86\Debug\Current Date and Time.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Current Date and Time\bin\Debug\Current Date and Time.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Current Date and Time\bin\Debug\Current Date and Time.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Current Date and Time\bin\Debug\Current Date and Time.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Current Date and Time\bin\Debug\Current Date and Time.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Current Date and Time\obj\x86\Debug\Current Date and Time.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Current Date and Time\obj\x86\Debug\Current Date and Time.pdb

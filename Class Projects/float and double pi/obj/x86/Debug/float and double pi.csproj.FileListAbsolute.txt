@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\float and double pi\bin\Debug\float and double pi.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\float and double pi\bin\Debug\float and double pi.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\float and double pi\obj\x86\Debug\float and double pi.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\float and double pi\obj\x86\Debug\float and double pi.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\float and double pi\bin\Debug\float and double pi.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\float and double pi\bin\Debug\float and double pi.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\float and double pi\obj\x86\Debug\float and double pi.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\float and double pi\obj\x86\Debug\float and double pi.pdb

@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\obj\x86\Debug\Simple_Calculator.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\obj\x86\Debug\Simple_Calculator.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\obj\x86\Debug\Simple Calculator.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\obj\x86\Debug\Simple Calculator.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Simple Calculator\obj\x86\Debug\Simple Calculator.pdb

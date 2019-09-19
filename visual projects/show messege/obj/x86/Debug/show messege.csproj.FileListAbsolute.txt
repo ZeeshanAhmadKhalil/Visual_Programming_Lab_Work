@@ -1,0 +1,14 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\obj\x86\Debug\show_messege.Form1.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\obj\x86\Debug\show_messege.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\obj\x86\Debug\show messege.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\bin\Debug\show messege.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\bin\Debug\show messege.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\obj\x86\Debug\show messege.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\visual projects\show messege\obj\x86\Debug\show messege.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\obj\x86\Debug\show messege.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\obj\x86\Debug\show messege.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\bin\Debug\show messege.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\bin\Debug\show messege.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\obj\x86\Debug\show_messege.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\obj\x86\Debug\show_messege.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\show messege\obj\x86\Debug\show messege.csproj.GenerateResource.Cache

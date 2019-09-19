@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\int string float conversions\bin\Debug\int string float conversions.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\int string float conversions\bin\Debug\int string float conversions.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\int string float conversions\obj\x86\Debug\int string float conversions.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\int string float conversions\obj\x86\Debug\int string float conversions.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\int string float conversions\bin\Debug\int string float conversions.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\int string float conversions\bin\Debug\int string float conversions.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\int string float conversions\obj\x86\Debug\int string float conversions.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\int string float conversions\obj\x86\Debug\int string float conversions.pdb

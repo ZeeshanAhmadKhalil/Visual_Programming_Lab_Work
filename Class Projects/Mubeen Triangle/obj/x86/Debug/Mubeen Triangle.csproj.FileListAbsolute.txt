@@ -1,0 +1,8 @@
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen Triangle\bin\Debug\Mubeen Triangle.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen Triangle\bin\Debug\Mubeen Triangle.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen Triangle\obj\x86\Debug\Mubeen Triangle.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\Mubeen Triangle\obj\x86\Debug\Mubeen Triangle.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen Triangle\bin\Debug\Mubeen Triangle.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen Triangle\bin\Debug\Mubeen Triangle.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen Triangle\obj\x86\Debug\Mubeen Triangle.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Mubeen Triangle\obj\x86\Debug\Mubeen Triangle.pdb

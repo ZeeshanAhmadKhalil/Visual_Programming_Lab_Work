@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\obj\x86\Debug\tick tock.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\obj\x86\Debug\tick tock.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\bin\Debug\tick tock.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\bin\Debug\tick tock.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\obj\x86\Debug\tick_tock.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\obj\x86\Debug\tick_tock.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\practise\tick tock\obj\x86\Debug\M1 tick tock.csproj.GenerateResource.Cache

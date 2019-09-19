@@ -1,0 +1,7 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\bin\Debug\M1 web browser.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\bin\Debug\M1 web browser.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\obj\x86\Debug\M1_web_browser.Form1.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\obj\x86\Debug\M1_web_browser.Properties.Resources.resources
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\obj\x86\Debug\M1 web browser.csproj.GenerateResource.Cache
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\obj\x86\Debug\M1 web browser.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\visual projects\M1 web browser\obj\x86\Debug\M1 web browser.pdb

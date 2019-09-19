@@ -1,0 +1,12 @@
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\10 members of squence\bin\Debug\10 members of squence.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\10 members of squence\bin\Debug\10 members of squence.pdb
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\10 members of squence\obj\x86\Debug\10 members of squence.exe
+D:\Notes\BCS\Semester 5\2 VP\Projects\Class Projects\10 members of squence\obj\x86\Debug\10 members of squence.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\10 members of squence\obj\x86\Debug\10 members of squence.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\10 members of squence\obj\x86\Debug\10 members of squence.pdb
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\10 members of squence\bin\Debug\10 members of squence.exe
+D:\Notes\BCS\Semester 5\3 VP\Projects\Class Projects\10 members of squence\bin\Debug\10 members of squence.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\10 members of squence\obj\x86\Debug\10 members of squence.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\10 members of squence\obj\x86\Debug\10 members of squence.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\10 members of squence\bin\Debug\10 members of squence.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\10 members of squence\bin\Debug\10 members of squence.pdb

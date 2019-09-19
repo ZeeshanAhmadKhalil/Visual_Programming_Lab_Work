@@ -1,0 +1,4 @@
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Hamza's Vowel\bin\Debug\Hamza's Vowel.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Hamza's Vowel\bin\Debug\Hamza's Vowel.pdb
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Hamza's Vowel\obj\x86\Debug\Hamza's Vowel.exe
+D:\Notes\BCS\Semester 5\4 VP\Projects\Class Projects\Hamza's Vowel\obj\x86\Debug\Hamza's Vowel.pdb
